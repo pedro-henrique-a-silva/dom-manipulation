@@ -7,4 +7,13 @@ const mudaTagP = () => {
   tagP.innerHTML = 'Daqui a 2 anos me vejo como um, Dev Casca grossa :)';
 };
 
-mudaTagP()
+// Requisito 2
+
+const mudaFundoMain = () => {
+  const tagMain = document.querySelector('.main-content');
+  tagMain.style.backgroundColor = 'rgb(76, 164, 109)';
+};
+
+mudaTagP();
+mudaFundoMain();
+
