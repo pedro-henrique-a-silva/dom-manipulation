@@ -33,7 +33,7 @@ const mudaTitulo = () => {
 const paragrafoUppercase = () => {
   const paragrafo = document.querySelector('p');
   paragrafo.innerText = paragrafo.innerText.toUpperCase();
-}
+};
 
 // Requisito 6
 const moveParagraphToFooter = () => {
