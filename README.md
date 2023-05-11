@@ -43,9 +43,9 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-0x-exercise-dom-manipulation.git`
+- Use o comando: `git clone git@github.com:tryber/sd-033-a-exercise-dom-manipulation.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-exercise-dom-manipulation`
+  - `cd sd-033-a-exercise-dom-manipulation`
 
 2. Instale as dependências e inicialize o projeto
 
@@ -81,7 +81,7 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
 7. Crie um novo `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-dom-manipulation/pulls)
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-033-a-exercise-dom-manipulation/pulls)
 - Clique no botão verde _"New pull request"_
 - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção** - Coloque um título para o seu _Pull Request_
   - Exemplo: _"Cria tela de busca"_
@@ -91,7 +91,7 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
  <img width="1335" alt="Exemplo de pull request" src="https://user-images.githubusercontent.com/42356399/166255109-b95e6eb4-2503-45e5-8fb3-cf7caa0436e5.png">
 
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-exercise-dom-manipulation/pulls) e confira que o seu _Pull Request_ está criado
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-033-a-exercise-dom-manipulation/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 <details>
