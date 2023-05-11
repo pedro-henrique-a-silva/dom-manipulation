@@ -28,7 +28,15 @@ const mudaTitulo = () => {
   titulo.innerHTML = 'Desafio - JavaScript';
 };
 
+// Requisito 5
+
+const paragrafoUppercase = () => {
+  const paragrafo = document.querySelector('p');
+  paragrafo.innerText = paragrafo.innerText.toUpperCase();
+}
+
 mudaTagP();
 mudaFundoMain();
 mudaFundoCentro();
 mudaTitulo();
+paragrafoUppercase();
