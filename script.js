@@ -21,6 +21,14 @@ const mudaFundoCentro = () => {
   sectionCenter.style.backgroundColor = 'white';
 };
 
+// Requisito 4
+
+const mudaTitulo = () => {
+  const titulo = document.querySelector('.title');
+  titulo.innerHTML = 'Desafio - JavaScript';
+};
+
 mudaTagP();
 mudaFundoMain();
 mudaFundoCentro();
+mudaTitulo();
