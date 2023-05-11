@@ -35,8 +35,19 @@ const paragrafoUppercase = () => {
   paragrafo.innerText = paragrafo.innerText.toUpperCase();
 }
 
+// Requisito 6
+const moveParagraphToFooter = () => {
+  const paragraphs = document.querySelectorAll('.center-content p');
+  const paragraphFooter = document.querySelector('footer p');
+
+  for (let index = 0; index < paragraphs.length; index += 1) {
+    paragraphFooter.innerText = `${paragraphFooter.innerText} ${paragraphs[index].innerText}`;
+  }
+};
+
 mudaTagP();
 mudaFundoMain();
 mudaFundoCentro();
 mudaTitulo();
 paragrafoUppercase();
+moveParagraphToFooter();
